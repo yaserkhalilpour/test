@@ -3,3 +3,9 @@ h1{
     text-shadow: 1px 1px black;
     display: inline-block;
 }
+
+button{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 50px;
+}
