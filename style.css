@@ -4,3 +4,8 @@ h1{
     display: inline-block;
 }
 
+button{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 50px;
+}
